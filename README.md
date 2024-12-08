@@ -62,6 +62,7 @@ python image_captioning_train.py`
  - `decoder_resnet101_attention-test.ckpt`
 ### Learning Curve:
  - A plot of training and testing loss, saved as `learning_curve.png.`
+![Example Image](loss.png)
 
 ## Dependencies
 The project requires the following dependencies. They are included in the requirements.txt file:
