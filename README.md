@@ -22,6 +22,7 @@ The model uses the **Flickr8k dataset**, which contains 8,000 images with five c
 - **Captions**: Stored in the `Flickr8k/Flickr8k.token.txt` file.
 
 You can download the dataset from [Flickr8k Dataset](https://www.kaggle.com/datasets/snehasaarla/flickr-8k-dataset).
+You can download the weight from [Drive](https://drive.google.com/drive/folders/1MmmmnKt6jq8McFxvuv_X-cAXD2Xa-IQx?usp=sharing).
 
 ---
 
