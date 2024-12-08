@@ -21,7 +21,7 @@ The model uses the **Flickr8k dataset**, which contains 8,000 images with five c
 - **Images**: Stored in the `Flickr8k/Images/` directory.
 - **Captions**: Stored in the `Flickr8k/Flickr8k.token.txt` file.
 
-You can download the dataset from [Flickr8k Dataset](https://forms.illinois.edu/sec/1713398).
+You can download the dataset from [Flickr8k Dataset](https://www.kaggle.com/datasets/snehasaarla/flickr-8k-dataset).
 
 ---
 
