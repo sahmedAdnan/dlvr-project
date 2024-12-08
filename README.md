@@ -62,6 +62,7 @@ python image_captioning_train.py`
  - `decoder_resnet101_attention-test.ckpt`
 <img src="captioned_images\667626_18933d713e_captioned.png" alt="Alt text" width="500"/>
 <img src="captioned_images\23445819_3a458716c1_captioned.png" alt="Alt text" width="500"/>
+
 ### Learning Curve:
  - A plot of training and testing loss, saved as `learning_curve.png.`
 <img src="loss.png" alt="Alt text" width="500"/>
