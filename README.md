@@ -60,8 +60,12 @@ python image_captioning_train.py`
 ### Trained Models:
  - `encoder_resnet101_attention-test.ckpt`
  - `decoder_resnet101_attention-test.ckpt`
+<img src="captioned_images\667626_18933d713e_captioned.png" alt="Alt text" width="500"/>
+<img src="captioned_images\23445819_3a458716c1_captioned.png" alt="Alt text" width="500"/>
+
 ### Learning Curve:
  - A plot of training and testing loss, saved as `learning_curve.png.`
+<img src="loss.png" alt="Alt text" width="500"/>
 
 ## Dependencies
 The project requires the following dependencies. They are included in the requirements.txt file:
@@ -71,4 +75,5 @@ transformers>=4.28.0
 Pillow>=9.0.0
 matplotlib>=3.5.0
 numpy>=1.21.0
+nltk
 
