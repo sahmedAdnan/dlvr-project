@@ -618,6 +618,6 @@ if __name__ == '__main__':
     # Train and evaluate the model
     train_and_evaluate()
 
-    # After training, you can test the model on new images
+    # After training, test the model on new images
     # Uncomment the following line to enable testing on new images
     # test_model_on_new_images()
